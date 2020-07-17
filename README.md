@@ -1,6 +1,6 @@
 
 I'm a computer engineer that also likes seeing documentaries, learning random things, languages, translating Japanese and listening to music.
-I'm mostly insterested in backend development and everything related to that field, I'm happy learning how things work under the hood. 
+I'm mostly interested in backend development and everything related to that field, I'm happy learning how things work under the hood. 
 
 ## What I'm currently interested in?:
 * Cloud Computing
