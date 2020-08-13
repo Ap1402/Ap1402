@@ -4,7 +4,7 @@ I'm mostly interested in backend development and everything related to that fiel
 
 ## What I've done recently?:
 Currently I'm finishing my doctor's appointment system API, my next step is integrating an email notification with this API. 
-A couple of days ago, I finished a React Course that I've been taking last months and also working with a friend on a Typescript API for a Forum, although is only for fun.
+A couple of days ago, I finished a React Course that I've been taking last months and also worked with a friend on a Typescript API for a Forum, although is only for fun.
 I'm also taking care of a Plesk integrated VPS while I'm learning how to deploy dockerized applications (in this case, Odoo).
 
 ## What I'm currently interested in?:
