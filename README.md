@@ -4,8 +4,7 @@ I'm mostly interested in backend development and everything related to that fiel
 
 ## What I'm currently interested in?:
 * Cloud Computing
-* Everything related to system administration
-* Networks
+* Network
 * AI
 
 
